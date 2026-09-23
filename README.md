@@ -47,10 +47,3 @@ Tenha controle total da sua empresa de onde estiver: faça seu sistema enviar os
 ![Dashboard 08](img/08.jpg)
 
 ![Dashboard 09](img/09.jpg)
-
-## Estrutura do projeto
-
-- `src/web/dashboard`: aplicação web em Laravel
-- `img`: imagens de apresentação e descrição original
-
-> O arquivo de ambiente da aplicação (`.env`) não faz parte do repositório. Use `src/web/dashboard/.env.example` como base para a configuração local.
