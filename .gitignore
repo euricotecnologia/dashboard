@@ -1,0 +1,23 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# PHP / JavaScript dependencies
+vendor/
+node_modules/
+
+# Laravel runtime files
+storage/*.key
+storage/logs/*.log
+public/hot
+public/storage
+.phpunit.result.cache
+
+# Local tooling
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-error.log*

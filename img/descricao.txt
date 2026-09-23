@@ -1,0 +1,31 @@
+Plataforma Dashboard com código fonte para integrar ao seu sistema
+
+Nada melhor que ter um controle total da sua empresa de onde você estiver, faça seu sistema enviar todos os dados financeiros para web e tenha o controle na palma de suas mãos.
+
+Conheça a Plataforma Dashboard
+
+// Principais Recursos:
+* Informações financeiras
+* Gráficos
+* Contas a pagar / Pendentes / Vencidas
+* Contas a receber / Pendentes / Vencidas
+* Caixas
+* Minhas vendas
+* vendas por Vendedores
+* Perfil
+* TOP 10 dos produtos mais vendidos
+* Notas Fiscais emitidas
+* Formas de Pagamentos mais usadas
+* Lucros
+* Quantidade de Vendas
+* Fluxo de Caixa
+* Quantidade de clientes
+* Quantidade Produtos
+* Quantidade de Fornecedores
+* Quantidade de usuarios 
+
+
+// Código fonte em Lavarel
+// Banco de dados MySQL
+// Demo com código fonte em Delphi
+// API de integração para qualquer linguagem 
